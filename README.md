@@ -1,4 +1,12 @@
-# The Time machine theme
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+[![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
+
+[ruby-gems]: https://rubygems.org/gems/jekyll
+[ci-workflow]: https://github.com/jekyll/jekyll/actions?query=workflow%3A%22Continuous+Integration%22+branch%3Amaster
+[appveyor]: https://ci.appveyor.com/project/jekyll/jekyll/branch/master
+
+
+# mYbinder is The Time machine theme + codepresentation tools
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
 
