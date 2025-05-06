@@ -3,7 +3,8 @@ layout: default
 mathjax: true
 ---
 
-
+[The Original Kings of Comedy - LOL NETWORK UPLOAD](https://youtu.be/dnM65xTD6Uw) [WorkEthikJOKE](https://youtu.be/dnM65xTD6Uw?t=896)
+[REDDiT - How do I know which Jekyll version is used by a github repo just cloned? /r/jekyll /u/igul77](https://www.reddit.com/r/Jekyll/comments/faaa84/how_do_i_know_which_jekyll_version_is_used_by_a/?rdt=61924)
 
 <iframe src="https://archive.org/embed/screen-recording-2025-05-03-4.15.03-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
