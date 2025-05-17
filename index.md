@@ -3,6 +3,29 @@ layout: default
 mathjax: true
 ---
 
+
+# Customizing GitHub-hosted runners
+[Read](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/customizing-github-hosted-runners)
+```yaml
+name: Build on macOS
+on: push
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Install GitHub CLI
+        run: |
+          brew update
+          brew install gh
+      - name: Install Microsoft Edge
+        run: |
+          brew update
+          brew install --cask microsoft-edge
+``` 
+
 [The Original Kings of Comedy - LOL NETWORK UPLOAD](https://youtu.be/dnM65xTD6Uw) [WorkEthikJOKE](https://youtu.be/dnM65xTD6Uw?t=896)
 [REDDiT - How do I know which Jekyll version is used by a github repo just cloned? /r/jekyll /u/igul77](https://www.reddit.com/r/Jekyll/comments/faaa84/how_do_i_know_which_jekyll_version_is_used_by_a/?rdt=61924)
 
