@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 
-
+[LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
 [DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
 
 ## Cloud Stage - Day 1 (Google I/O 2025)
@@ -20,10 +20,10 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 [Red Hat TV](https://tv.redhat.com/) [LosAngeLESwebcam](https://www.fox10phoenix.com/webcams-los-angeles)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiQDFjmWGUc?si=uE0l4B_i-1nxzd7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+[ms_past](https://www.youtube.com/live/HHLJvcjNRhI?si=OySfkT_eate1-ZRm)
 # gcc⚠️ 
-
-Im learning `c` [command](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux) in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok](https://x.ai/grok) is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like modernman... or an inline wizard.
+![o](https://media.tenor.com/7LcaZrg95ZIAAAAm/clippy.webp) 
+Im learning `c` [command](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux) in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok](https://x.ai/grok) is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like [modernman](https://developer.apple.com/documentation/os/reading-unix-manual-pages)... or an inline wizard.
 
 After playing with [`cla`](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux)I installed some software in the learning tool and started building apache13 to see if old software would compile with no problems. The Makefile has a `\` i dont know how to handle to make it build @nasa-jpl @whitehouse [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs):[Let AI teach you Linux with Red Hat Enterprise Linux Lightspeed]()
 ```shell

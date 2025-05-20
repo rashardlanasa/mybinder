@@ -3,6 +3,17 @@ title: "Google I/O 25"
 published: true
 image: goeswestabiconus-firetemperature-sApr 22, 2025 - 01_06 UTC-eApr 22, 2025 - 02_41 UTC
 ---
+
+
+## Cloud Stage - Day 1 (Google I/O 2025)
+This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[iNSTRUQT - page rashard](https://play.instruqt.com/study-room)
+## Web Stage - Day 1 (Google I/O 2025)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
+
 ### Topics:GOOGLEiO25
 - Android
 [#github https://x.com/rohitTamma might b #Kidnapped! https://api.pageplace.de/preview/DT0400.9781782174448_A24763601/preview-9781782174448_A24763601.pdf someone stole my phone after I started reading this!](https://x.com/RicoThaka/status/1855730949922918697)
