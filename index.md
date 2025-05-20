@@ -7,10 +7,10 @@ mathjax: true
 ### Live: AnsibleFest 2025 Keynote - Driving transformative change in the AI Era
 [Red Hat TV](https://tv.redhat.com/) [LosAngeLESwebcam](https://www.fox10phoenix.com/webcams-los-angeles)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiQDFjmWGUc?si=uE0l4B_i-1nxzd7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+![msn2002](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2024_new_msn_logo.svg/61px-2024_new_msn_logo.svg.png)
 [EARTHCAM los angeles returned 10 results](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4)
 [Building the Future Using Bootable Containers](https://tv.redhat.com/detail/6368964763112/building-the-future-using-bootable-containers) [Red Hat Summit Newsroom](https://www.redhat.com/en/about/red-hat-summit-newsroom?sc_cid=7013a000003StsiAAC) @redhatofficial are you guys going to get formally involved with building [Runners on Github](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners)? @blackgirlscode @nasa @nasa-jpl
-
+![MSN2002](https://upload.wikimedia.org/wikipedia/commons/1/10/2024_new_msn_logo.svg)
 # Customizing GitHub-hosted runners
 [Read](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/customizing-github-hosted-runners)
 ```yaml
