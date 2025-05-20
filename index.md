@@ -4,6 +4,8 @@ mathjax: true
 ---
 
 
+[Building the Future Using Bootable Containers](https://tv.redhat.com/detail/6368964763112/building-the-future-using-bootable-containers) [Red Hat Summit Newsroom](https://www.redhat.com/en/about/red-hat-summit-newsroom?sc_cid=7013a000003StsiAAC)
+
 # Customizing GitHub-hosted runners
 [Read](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/customizing-github-hosted-runners)
 ```yaml
