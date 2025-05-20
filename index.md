@@ -5,7 +5,7 @@ mathjax: true
 
 
 
-[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller)
+[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
 
 ## Cloud Stage - Day 1 (Google I/O 2025)
 This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
@@ -15,6 +15,7 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 ## Web Stage - Day 1 (Google I/O 2025)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 @nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
+
 ### Live: AnsibleFest 2025 Keynote - Driving transformative change in the AI Era
 [Red Hat TV](https://tv.redhat.com/) [LosAngeLESwebcam](https://www.fox10phoenix.com/webcams-los-angeles)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiQDFjmWGUc?si=uE0l4B_i-1nxzd7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
