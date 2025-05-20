@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 ---
 
+
+
+[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller)
+
 ## Cloud Stage - Day 1 (Google I/O 2025)
 This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
