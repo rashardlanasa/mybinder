@@ -12,7 +12,10 @@ mathjax: true
 
 
 # gcc⚠️ 
-Im learning `c` command in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok](https://x.ai/grok) is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like modernman... or an inline wizard. I installed some software in the learning tool and started building apache13 to see if old software would compile with no problems. The Makefile has a `\` i dont know how to handle to make it build @nasa-jpl @whitehouse 
+
+Im learning `c` [command](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux) in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok](https://x.ai/grok) is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like modernman... or an inline wizard.
+
+After playing with [`cla`](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux)I installed some software in the learning tool and started building apache13 to see if old software would compile with no problems. The Makefile has a `\` i dont know how to handle to make it build @nasa-jpl @whitehouse [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs):[Let AI teach you Linux with Red Hat Enterprise Linux Lightspeed]()
 ```shell
 http_main.c: In function ‘process_child_status’:
 ../include/ap_config.h:503:25: error: ‘_sys_siglist’ undeclared (first use in this function)
