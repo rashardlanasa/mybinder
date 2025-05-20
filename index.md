@@ -10,7 +10,50 @@ mathjax: true
 
 
 # gcc⚠️ 
-Im learning `c` command in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok]() is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like modernman... or an inline wizard 
+Im learning `c` command in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok]() is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like modernman... or an inline wizard. I installed some software in the learning tool and started building apache13 to see if old software would compile with no problems. The Makefile has a `\` i dont know how to handle to make it build @nasa-jpl @whitehouse 
+```shell
+http_main.c: In function ‘process_child_status’:
+../include/ap_config.h:503:25: error: ‘_sys_siglist’ undeclared (first use in this function)
+  503 | #define SYS_SIGLIST     _sys_siglist
+      |                         ^~~~~~~~~~~~
+http_main.c:5004:30: note: in expansion of macro ‘SYS_SIGLIST’
+ 5004 |                              SYS_SIGLIST[WTERMSIG(status)], WTERMSIG(status),
+      |                              ^~~~~~~~~~~
+../include/ap_config.h:503:25: note: each undeclared identifier is reported only once for each function it appears in
+  503 | #define SYS_SIGLIST     _sys_siglist
+      |                         ^~~~~~~~~~~~
+http_main.c:5004:30: note: in expansion of macro ‘SYS_SIGLIST’
+ 5004 |                              SYS_SIGLIST[WTERMSIG(status)], WTERMSIG(status),
+      |                              ^~~~~~~~~~~
+make[1]: *** [Makefile:56: http_main.o] Error 1
+make: *** [Makefile:113: subdirs] Error 1
+root@rhel:~/apache_1.3.27/src# ./configure --prefix=/opt/apache
+bash: ./configure: No such file or directory
+root@rhel:~/apache_1.3.27/src# cd ..
+root@rhel:~/apache_1.3.27# ./configure --prefix=/opt/apache
+Configuring for Apache, Version 1.3.27
+ + using installation path layout: Apache (config.layout)
+Creating Makefile
+Creating Configuration.apaci in src
+Creating Makefile in src
+awk: cmd. line:9: warning: regexp escape sequence `\=' is not a known regexp operator
+ + configured for Linux platform
+ + setting C compiler to gcc
+ + setting C pre-processor to gcc -E
+ + checking for system header files
+ + adding selected modules
+ + using builtin Expat
+ + checking sizeof various data types
+ + doing sanity check on compiler and options
+Creating Makefile in src/support
+Creating Makefile in src/regex
+Creating Makefile in src/os/unix
+Creating Makefile in src/ap
+Creating Makefile in src/main
+Creating Makefile in src/lib/expat-lite
+Creating Makefile in src/modules/standard
+root@rhel:~/apache_1.3.27#
+```
 ![msn2002](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2024_new_msn_logo.svg/61px-2024_new_msn_logo.svg.png)
 [EARTHCAM los angeles returned 10 results](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4)
 [Building the Future Using Bootable Containers](https://tv.redhat.com/detail/6368964763112/building-the-future-using-bootable-containers) [Red Hat Summit Newsroom](https://www.redhat.com/en/about/red-hat-summit-newsroom?sc_cid=7013a000003StsiAAC) @redhatofficial are you guys going to get formally involved with building [Runners on Github](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners)? @blackgirlscode @nasa @nasa-jpl
