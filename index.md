@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 ---
 
+Red Hat Summit 2025: Tuesday highlights and innovation unveiled
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@nasa @blackgirlscode @nasa-jpl
 
 [LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
 [DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
