@@ -5,6 +5,8 @@ mathjax: true
 
 ### ./linux
 [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) 
+[Red Hat TV](https://tv.redhat.com/en)
+![cla](https://www.redhat.com/rhdc/managed-files/command%20line%20vis.webp)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![SMARTLA](https://pbs.twimg.com/media/GrglNRXboAc9nW2?format=jpg&name=large)
