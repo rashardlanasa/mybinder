@@ -8,21 +8,25 @@ mathjax: true
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
-      <p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p>
-      <a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>()
+<p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p><a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>
+[Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
+<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" >
+    </object>
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 
 ### iMAGEMAGiCK
 ## ImageMagick Examples --
  Animation Basics
 I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
 
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
  
-[Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
-<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" >
-    </object>
+
 
 [AcmeMapper](https://mapper.acme.com/)
 [Red Hat TV](https://tv.redhat.com/en)
