@@ -4,7 +4,17 @@ mathjax: true
 ---
 
 ### ./linux
-[RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) 
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) 
+
+
+![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
+<h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
+      <p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p>
+      <a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>() 
+[Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
+<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" >
+    </object>
+
 [Red Hat TV](https://tv.redhat.com/en)
 ![cla](https://www.redhat.com/rhdc/managed-files/command%20line%20vis.webp)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -12,6 +22,31 @@ mathjax: true
 ![SMARTLA](https://pbs.twimg.com/media/GrglNRXboAc9nW2?format=jpg&name=large)
 [DOWNLOAD_PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text) [RELATEDTWEET](https://x.com/BubbleGumPop510/status/1925329053080522815) @nasa-jpl @stateofcalifornia @nasa @whitehouse @blackgirlscode 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+# Writing mathematical expressions
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Red Hat Summit 2025: Tuesday highlights and innovation unveiled
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -135,29 +170,6 @@ jobs:
 [How to highlight code on a Jekyll site - Syntax Highlighting February 11, 2019   1 minute read  ](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/) [Rashard Kelly @NASA-JPL Linux kernel source tree repo pagesBlog](https://ricothaka.github.io/linux/)
 
 ![PrarieWind](https://raw.githubusercontent.com/ThakaRashard/tr/refs/heads/master/assets/images/PrairieWind.png)
-# Writing mathematical expressions
-Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
-`**The Cauchy-Schwarz Inequality**`\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-**The Cauchy-Schwarz Inequality**
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
-This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
-```
-
-# $a^2 + b^2 = c^2$
-## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
-$$\begin{eqnarray}
-x' &=& &x \sin\phi &+& z \cos\phi \\
-z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}$$
-
-[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
-
-JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940](https://youtu.be/_-JzxX75oYc)
 [AT&T Tech Channel](https://www.youtube.com/@ATTTechChannel) [AT&T Archives Director's Cuts](https://www.youtube.com/playlist?list=PLB9F9CE7A476EE94B)
