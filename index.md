@@ -3,18 +3,28 @@ layout: default
 mathjax: true
 ---
 
-### ./linux
-# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) 
-
-
+# ./linux
 ![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
       <p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p>
-      <a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>() 
+      <a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>()
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+ 
 [Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
 <object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" >
     </object>
 
+[AcmeMapper](https://mapper.acme.com/)
 [Red Hat TV](https://tv.redhat.com/en)
 ![cla](https://www.redhat.com/rhdc/managed-files/command%20line%20vis.webp)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -357,12 +367,7 @@ Discover the power of learning by doing with LabEx! An AI-driven platform offeri
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Create Container - Learn how to create a Docker container from an image using the Docker CLI. This example demonstrates how to run a simple web server in a container. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://t.co/959rpfpvPL">https://t.co/959rpfpvPL</a></p>&mdash; LabEx (@WeAreLabEx) <a href="https://twitter.com/WeAreLabEx/status/1916789919399235696?ref_src=twsrc%5Etfw">April 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### iMAGEMAGiCK
-## ImageMagick Examples --
- Animation Basics
-I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
 ## AT&T Archives: The UNIX Operating System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=DE6umMl1gbQX986O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -374,7 +379,20 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 ```html
 <iframe src="https://archive.org/embed/at-t-archives-the-unix-operating-system" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
-
+ <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
 --- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
