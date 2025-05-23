@@ -3,6 +3,8 @@ layout: default
 mathjax: true
 ---
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1812919312203051%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 # ./linux
 ![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

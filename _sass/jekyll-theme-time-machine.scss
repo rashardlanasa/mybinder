@@ -599,3 +599,41 @@ img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px
   padding: 3px;
   text-align: center;
 }
+
+iframe {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  border: none;
+}
+
+video {
+  height: fit-content;
+  width: 100%;
+  border-radius: 0px;
+  display: block;
+  margin-block: 10px 10px;
+  background: rgb(217, 4, 121);
+  background: linear-gradient(
+    0deg,
+    #595959 25%,
+    #262626 0,
+    #262626 50%,
+    #595959 0,
+    #595959 75%,
+    #262626 0
+  );
+  background-size: 280.4px 280.4px;
+
+  transition: 3s cubic-bezier(0.25, 0.1, 0.2, 3);
+}
+
+embed {
+    width: 100%;
+    height: fit-content;
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+  
+  transition: 3s cubic-bezier(0.25, 0.1, 0.2, 3);
+
+}
