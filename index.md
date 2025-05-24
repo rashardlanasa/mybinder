@@ -4,6 +4,192 @@ mathjax: true
 ---
 
 
+# Beyond the horizon: Navigating the bridge between today's tech and tomorrow's AI
+[`May 20, 2025-Matt Hicks`](https://www.redhat.com/en/authors/matt-hicks) 
+Every new technology revolution has brought both excitement and fear. Fear of the unknown. Fear of potential impacts. And fear of how individuals might need to change. People tend to avoid change, but as technologists, we’ve learned that change is the only constant in our world, and we must embrace it [ReadMore](https://www.redhat.com/en/blog/beyond-horizon-navigating-bridge-between-todays-tech-and-tomorrows-ai?sc_cid=RHCTG0240000427545) @matthicksj can u look at our annual report ? 
+
+<object data="https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf">download the PDF file.</a></p></object>
+
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/re7e5QRck9">https://t.co/re7e5QRck9</a> <a href="https://twitter.com/hashtag/RHSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#RHSUMMiT</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> i put some notes, i still have more to parse but i want <a href="https://twitter.com/matthicksj?ref_src=twsrc%5Etfw">@matthicksj</a> to know that all the <a href="https://twitter.com/hashtag/Matt_Turner_Jokes?src=hash&amp;ref_src=twsrc%5Etfw">#Matt_Turner_Jokes</a> were not directed at him at all and i would appreciate if <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/MalaikaJabali?ref_src=twsrc%5Etfw">@MalaikaJabali</a>/<a href="https://twitter.com/wangawoman?ref_src=twsrc%5Etfw">@wangawoman</a>/<a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> can u clean me up? <a href="https://t.co/56JLzYrYRo">pic.twitter.com/56JLzYrYRo</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925986054160503066?ref_src=twsrc%5Etfw">May 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1812919312203051%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+![SMARTLA](https://pbs.twimg.com/media/GrglNRXboAc9nW2?format=jpg&name=large)
+
+
+<object data="https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text">download the PDF file.</a></p></object>
+
+[DOWNLOAD_PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text) [RELATEDTWEET](https://x.com/BubbleGumPop510/status/1925329053080522815) @nasa-jpl @stateofcalifornia @nasa @whitehouse @blackgirlscode 
+
+
+# ./linux
+![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
+<p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p><a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>
+[Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
+
+
+
+
+### Live: AnsibleFest 2025 Keynote - Driving transformative change in the AI Era
+[Red Hat TV](https://tv.redhat.com/) [LosAngeLESwebcam](https://www.fox10phoenix.com/webcams-los-angeles)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiQDFjmWGUc?si=uE0l4B_i-1nxzd7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2023.pdf](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2023.pdf)
+[ms_past](https://www.youtube.com/live/HHLJvcjNRhI?si=OySfkT_eate1-ZRm)
+# gcc⚠️ 
+![o](https://media.tenor.com/7LcaZrg95ZIAAAAm/clippy.webp) 
+Im learning `c` [command](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux) in [RedHatEnterpriseLinux10](https://www.redhat.com/en/about/press-releases/red-hat-introduces-rhel-10) and as i define ai, im learning that im  already using it heavily! People think about characters like c3po and Johnny5 an get taken advantage of. Bc i thinkk [Grok](https://x.ai/grok) is a whiteboy i halfway trust that writes above average graffiti... The command line assistant is like [modernman](https://developer.apple.com/documentation/os/reading-unix-manual-pages)... or an inline wizard.
+
+After playing with [`cla`](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux)I installed some software in the learning tool and started building apache13 to see if old software would compile with no problems. The Makefile has a `\` i dont know how to handle to make it build @nasa-jpl @whitehouse [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs):[Let AI teach you Linux with Red Hat Enterprise Linux Lightspeed](https://www.redhat.com/en/blog/red-hat-enterprise-linux-lightspeed-let-ai-teach-you-linux)
+```shell
+http_main.c: In function ‘process_child_status’:
+../include/ap_config.h:503:25: error: ‘_sys_siglist’ undeclared (first use in this function)
+  503 | #define SYS_SIGLIST     _sys_siglist
+      |                         ^~~~~~~~~~~~
+http_main.c:5004:30: note: in expansion of macro ‘SYS_SIGLIST’
+ 5004 |                              SYS_SIGLIST[WTERMSIG(status)], WTERMSIG(status),
+      |                              ^~~~~~~~~~~
+../include/ap_config.h:503:25: note: each undeclared identifier is reported only once for each function it appears in
+  503 | #define SYS_SIGLIST     _sys_siglist
+      |                         ^~~~~~~~~~~~
+http_main.c:5004:30: note: in expansion of macro ‘SYS_SIGLIST’
+ 5004 |                              SYS_SIGLIST[WTERMSIG(status)], WTERMSIG(status),
+      |                              ^~~~~~~~~~~
+make[1]: *** [Makefile:56: http_main.o] Error 1
+make: *** [Makefile:113: subdirs] Error 1
+root@rhel:~/apache_1.3.27/src# ./configure --prefix=/opt/apache
+bash: ./configure: No such file or directory
+root@rhel:~/apache_1.3.27/src# cd ..
+root@rhel:~/apache_1.3.27# ./configure --prefix=/opt/apache
+Configuring for Apache, Version 1.3.27
+ + using installation path layout: Apache (config.layout)
+Creating Makefile
+Creating Configuration.apaci in src
+Creating Makefile in src
+awk: cmd. line:9: warning: regexp escape sequence `\=' is not a known regexp operator
+ + configured for Linux platform
+ + setting C compiler to gcc
+ + setting C pre-processor to gcc -E
+ + checking for system header files
+ + adding selected modules
+ + using builtin Expat
+ + checking sizeof various data types
+ + doing sanity check on compiler and options
+Creating Makefile in src/support
+Creating Makefile in src/regex
+Creating Makefile in src/os/unix
+Creating Makefile in src/ap
+Creating Makefile in src/main
+Creating Makefile in src/lib/expat-lite
+Creating Makefile in src/modules/standard
+root@rhel:~/apache_1.3.27#
+```
+![msn2002](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2024_new_msn_logo.svg/61px-2024_new_msn_logo.svg.png)
+[EARTHCAM los angeles returned 10 results](https://www.earthcam.com/search/ft_search.php?s1=1&term=los+angeles&x=78&y=4)
+[Building the Future Using Bootable Containers](https://tv.redhat.com/detail/6368964763112/building-the-future-using-bootable-containers) [Red Hat Summit Newsroom](https://www.redhat.com/en/about/red-hat-summit-newsroom?sc_cid=7013a000003StsiAAC) @redhatofficial are you guys going to get formally involved with building [Runners on Github](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners)? @blackgirlscode @nasa @nasa-jpl
+![MSN2002](https://upload.wikimedia.org/wikipedia/commons/1/10/2024_new_msn_logo.svg)
+# Customizing GitHub-hosted runners
+[Read](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/customizing-github-hosted-runners)
+```yaml
+name: Build on macOS
+on: push
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Install GitHub CLI
+        run: |
+          brew update
+          brew install gh
+      - name: Install Microsoft Edge
+        run: |
+          brew update
+          brew install --cask microsoft-edge
+``` 
+
+[The Original Kings of Comedy - LOL NETWORK UPLOAD](https://youtu.be/dnM65xTD6Uw) [WorkEthikJOKE](https://youtu.be/dnM65xTD6Uw?t=896)
+[REDDiT - How do I know which Jekyll version is used by a github repo just cloned? /r/jekyll /u/igul77](https://www.reddit.com/r/Jekyll/comments/faaa84/how_do_i_know_which_jekyll_version_is_used_by_a/?rdt=61924)
+
+
+
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+
+
+<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
+ 
+
+
+[AcmeMapper](https://mapper.acme.com/)
+[Red Hat TV](https://tv.redhat.com/en)
+![cla](https://www.redhat.com/rhdc/managed-files/command%20line%20vis.webp)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+# Writing mathematical expressions
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Red Hat Summit 2025: Tuesday highlights and innovation unveiled
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AGszUYA82EMbPNsEAhSv3YFqeSuCeC6dHePkeFgNKyjohuRJiDQYjSdcsSZij6XQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+@nasa @blackgirlscode @nasa-jpl
+<iframe src="https://archive.org/embed/jekyll4firstrun" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
+[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
+
+## Cloud Stage - Day 1 (Google I/O 2025)
+This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[iNSTRUQT - page rashard](https://play.instruqt.com/study-room)
+## Web Stage - Day 1 (Google I/O 2025)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
 
 <iframe src="https://archive.org/embed/screen-recording-2025-05-03-4.15.03-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -28,29 +214,6 @@ mathjax: true
 [How to highlight code on a Jekyll site - Syntax Highlighting February 11, 2019   1 minute read  ](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/) [Rashard Kelly @NASA-JPL Linux kernel source tree repo pagesBlog](https://ricothaka.github.io/linux/)
 
 ![PrarieWind](https://raw.githubusercontent.com/ThakaRashard/tr/refs/heads/master/assets/images/PrairieWind.png)
-# Writing mathematical expressions
-Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
-`**The Cauchy-Schwarz Inequality**`\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-**The Cauchy-Schwarz Inequality**
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
-This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
-```
-
-# $a^2 + b^2 = c^2$
-## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
-$$\begin{eqnarray}
-x' &=& &x \sin\phi &+& z \cos\phi \\
-z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}$$
-
-[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
-
-JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940](https://youtu.be/_-JzxX75oYc)
 [AT&T Tech Channel](https://www.youtube.com/@ATTTechChannel) [AT&T Archives Director's Cuts](https://www.youtube.com/playlist?list=PLB9F9CE7A476EE94B)
@@ -238,12 +401,7 @@ Discover the power of learning by doing with LabEx! An AI-driven platform offeri
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Create Container - Learn how to create a Docker container from an image using the Docker CLI. This example demonstrates how to run a simple web server in a container. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://t.co/959rpfpvPL">https://t.co/959rpfpvPL</a></p>&mdash; LabEx (@WeAreLabEx) <a href="https://twitter.com/WeAreLabEx/status/1916789919399235696?ref_src=twsrc%5Etfw">April 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### iMAGEMAGiCK
-## ImageMagick Examples --
- Animation Basics
-I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
 ## AT&T Archives: The UNIX Operating System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=DE6umMl1gbQX986O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -255,7 +413,20 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 ```html
 <iframe src="https://archive.org/embed/at-t-archives-the-unix-operating-system" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
-
+ <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
 --- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
