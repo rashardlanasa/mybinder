@@ -7,6 +7,9 @@ mathjax: true
  {{ jekyll.version }}
 
 
+# SUNDAYMAY25SCAN
+<iframe src="https://archive.org/embed/mariner9_tv_companionbook-12" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 @datadesk ~> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) @datadesk [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
 ### [Tixati is a New and Powerful P2P System](https://tixati.com/)
 @nasa-jpl [Tixati](https://tixati.com/linux) is a [bitorrent_client](https://www.bittorrent.org/beps/bep_0003.html) with a chat fuynction. I was at [Wholefoods](https://www.wholefoodsmarket.com/stores/avalon) on [Wifi](https://www.facebook.com/100004549987965/videos/1766755096819473/) working on [My @linkedin](https://www.linkedin.com/in/rashard-iman-kelly-a2b699354/) an someone offered me a torrent. I dont torrent much so, i was scared but accepted the file @nasa @deptofdefense, it was an archive with a bunch of [Wuhan_Era_Covid](https://pmc.ncbi.nlm.nih.gov/articles/PMC9874793/) [videos from china](https://www.npr.org/2024/12/31/nx-s1-5214781/whats-changed-in-wuhan-5-years-after-the-covid-19-outbreak). I have been being chased ever since, i cant blame that on @blackgirlscode : `so and so` @stateofcalifornia @cityoflosangeles. . . [rashard - @nasa-jpl EARTHDATA+MARS]()
