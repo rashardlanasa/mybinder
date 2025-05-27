@@ -6,9 +6,8 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
-
-# SUNDAYMAY25SCAN
-<iframe src="https://archive.org/embed/mariner9_tv_companionbook-12" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+# [The Chemical Brothers](https://www.thechemicalbrothers.com/) - Essential Mix [1995] [BBC](https://www.bbc.com/) radio [1](https://www.bbc.co.uk/sounds/play/live/bbc_radio_one)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1975542343&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ian-keane-108889471" title="Ian Keane" target="_blank" style="color: #cccccc; text-decoration: none;">Ian Keane</a> · <a href="https://soundcloud.com/ian-keane-108889471/the-chemical-brothers" title="The Chemical Brothers - Essential Mix [1995] BBC radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">The Chemical Brothers - Essential Mix [1995] BBC radio 1</a></div>
 
 @datadesk ~> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb) @datadesk [LATiMES JUPYTER_NOTEBOOK](https://github.com/jupyter/notebook)
 ### [Tixati is a New and Powerful P2P System](https://tixati.com/)
@@ -18,21 +17,12 @@ mathjax: true
 [`May 20, 2025-Matt Hicks`](https://www.redhat.com/en/authors/matt-hicks) 
 Every new technology revolution has brought both excitement and fear. Fear of the unknown. Fear of potential impacts. And fear of how individuals might need to change. People tend to avoid change, but as technologists, we’ve learned that change is the only constant in our world, and we must embrace it [ReadMore](https://www.redhat.com/en/blog/beyond-horizon-navigating-bridge-between-todays-tech-and-tomorrows-ai?sc_cid=RHCTG0240000427545) @matthicksj can u look at our annual report ? 
 
-<object data="https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf">download the PDF file.</a></p></object>
 
-
-# California Constitution
-<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
-<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/re7e5QRck9">https://t.co/re7e5QRck9</a> <a href="https://twitter.com/hashtag/RHSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#RHSUMMiT</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> i put some notes, i still have more to parse but i want <a href="https://twitter.com/matthicksj?ref_src=twsrc%5Etfw">@matthicksj</a> to know that all the <a href="https://twitter.com/hashtag/Matt_Turner_Jokes?src=hash&amp;ref_src=twsrc%5Etfw">#Matt_Turner_Jokes</a> were not directed at him at all and i would appreciate if <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/MalaikaJabali?ref_src=twsrc%5Etfw">@MalaikaJabali</a>/<a href="https://twitter.com/wangawoman?ref_src=twsrc%5Etfw">@wangawoman</a>/<a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> can u clean me up? <a href="https://t.co/56JLzYrYRo">pic.twitter.com/56JLzYrYRo</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925986054160503066?ref_src=twsrc%5Etfw">May 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1812919312203051%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-![SMARTLA](https://pbs.twimg.com/media/GrglNRXboAc9nW2?format=jpg&name=large)
-
-
-<object data="https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text">download the PDF file.</a></p></object>
 
 [DOWNLOAD_PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?trk=public_post_comment-text) [RELATEDTWEET](https://x.com/BubbleGumPop510/status/1925329053080522815) @nasa-jpl @stateofcalifornia @nasa @whitehouse @blackgirlscode 
 
