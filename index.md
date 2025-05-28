@@ -6,6 +6,9 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+<iframe src="https://archive.org/embed/The.Wizard.1989.1080p.BluRay.DD2.0.x264-AlexBMW" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # [The Chemical Brothers](https://www.thechemicalbrothers.com/) - Essential Mix [1995] [BBC](https://www.bbc.com/) radio [1](https://www.bbc.co.uk/sounds/play/live/bbc_radio_one)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1975542343&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ian-keane-108889471" title="Ian Keane" target="_blank" style="color: #cccccc; text-decoration: none;">Ian Keane</a> · <a href="https://soundcloud.com/ian-keane-108889471/the-chemical-brothers" title="The Chemical Brothers - Essential Mix [1995] BBC radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">The Chemical Brothers - Essential Mix [1995] BBC radio 1</a></div>
 
