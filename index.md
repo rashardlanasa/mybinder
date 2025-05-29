@@ -12,7 +12,11 @@ mathjax: true
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object> 
 ```
+<div class="tupperware">
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
 
+</div>
 
 ```html
 <!-- first has no optons, 2nd has a width wide enought to hopefully show a playbutton on most browsers, Upon compile it worked but still too small,its possible that using auto to size canceled the sizing attributesthat might only be processsed if they are in pixels with no nuit type defined, idk if it will take percentages, that may need to be defined in the stylesheet - #rashard -->
