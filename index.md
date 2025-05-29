@@ -6,7 +6,7 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
-
+[stereo](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0131)
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
 [w3schools](https://www.w3schools.com/tags/tag_object.asp)
 ```
