@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.authors       = ["Rashard Iman Kelly @nasa-jpl", "Tom Preston-Werner", "Parker Moore", "Matt Rogers"]
   s.email         = [ "holetoanotheruniverse40@gmail.com", "maintainers@jekyllrb.com"]
   s.homepage      = "https://ricothakarashard.github.io"
+
   s.summary       = "mybinder"
   s.description   = "pda4pages"
 
@@ -20,9 +21,11 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.metadata      = {
-    "source_code_uri" => "https://github.com/rashardlanasa/mybinder",
-    "bug_tracker_uri" => "https://github.com/rashardlanasa/mybinder/issues",
-    "changelog_uri"   => "https://github.com/rashardlanasa/mybinder/releases",
+
+    "source_code_uri" => "https://github.com/ricothakarashard/mybinder",
+    "bug_tracker_uri" => "https://github.com/ricothakarashard/mybinder/issues",
+    "changelog_uri"   => "https://github.com/ricothakarashard/mybinder/releases",
+
     "homepage_uri"    => s.homepage,
   }
 
