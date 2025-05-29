@@ -7,6 +7,18 @@ mathjax: true
  {{ jekyll.version }}
 
 
+```html
+<!-- first has no optons, 2nd has a width wide enought to hopefully show a playbutton on most browsers, Upon compile it worked but still too small,its possible that using auto to size canceled the sizing attributesthat might only be processsed if they are in pixels with no nuit type defined, idk if it will take percentages, that may need to be defined in the stylesheet - #rashard -->
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400"  ></object> 
+```
+[HTML `<object>` height Attribute](https://www.w3schools.com/tags/att_object_height.asp)
+
+<div class="tupperware">
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" ></object>
+
+</div>
 
 [stereo](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0131)
 
@@ -26,7 +38,7 @@ mathjax: true
 ### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
 The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
 
-## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) loos much healthier @nasa 
+## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
 
 
 ## Logcat
