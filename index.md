@@ -7,6 +7,11 @@ mathjax: true
  {{ jekyll.version }}
 
 
+
+
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+
+[PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
 ![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
 [STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
@@ -23,46 +28,6 @@ The <object> HTML element represents an external resource, which can be treated 
 <script async src="https://public.codepenassets.com/embed/index.js"></script>
 
 ## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
-
-
-
-```html
-<!-- Removing Hieght did not work, im sticking to an inline  size def - #rashard -->
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object> 
-```
-<div class="tupperware">
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-
-</div>
-
-```html
-<!-- first has no optons, 2nd has a width wide enought to hopefully show a playbutton on most browsers, Upon compile it worked but still too small,its possible that using auto to size canceled the sizing attributesthat might only be processsed if they are in pixels with no nuit type defined, idk if it will take percentages, that may need to be defined in the stylesheet - #rashard -->
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400"  ></object> 
-```
-[HTML `<object>` height Attribute](https://www.w3schools.com/tags/att_object_height.asp)
-
-<div class="box">
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" ></object>
-
-</div>
-
-[stereo](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0131)
-
-<div class="tupperware">
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" height="auto" ></object>
-
-</div>
-
-```html
-<!-- first has no optons, 2nd has a width wide enought to hopefully show a playbutton on most browsers. the object_tag displays content at minimal dimensions with no options declared -->
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" height="auto" ></object> 
-```
 
 
 
