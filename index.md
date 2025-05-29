@@ -6,6 +6,29 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+
+[stereo](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0131)
+
+<div class="tupperware">
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" height="auto" ></object>
+
+</div>
+
+```html
+<!-- first has no optons, 2nd has a width wide enought to hopefully show a playbutton on most browsers. the object_tag displays content at minimal dimensions with no options declared -->
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" height="auto" ></object> 
+```
+
+[w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla]()
+### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
+The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
+
+## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf)
+
+
 ## Logcat
 ### command-line tool
 [Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
@@ -14,18 +37,44 @@ mathjax: true
 # NAMCO SYSTEM 22
 ### CPU : Motorola 68EC020 32-bit @ 24.576 MH
 
+
+<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1024px-Sys22_point_rom_pcb_01.jpg)
+
 ![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/1024px-Namco_System_21_Polygonizer_logo.svg.png)
+>By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
 [SYSTEM16](https://www.system16.com/hardware.php?id=537)
 [Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
 
-[stereo](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0131)
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
-[w3schools](https://www.w3schools.com/tags/tag_object.asp)
-```
-<object data="video.mp4" width="400" height="300"></object> [w3schools](https://www.w3schools.com/tags/tag_object.asp)
+
+# Writing mathematical expressions
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
 ```
 
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+# The.Wizard.1989
 <iframe src="https://archive.org/embed/The.Wizard.1989.1080p.BluRay.DD2.0.x264-AlexBMW" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # [The Chemical Brothers](https://www.thechemicalbrothers.com/) - Essential Mix [1995] [BBC](https://www.bbc.com/) radio [1](https://www.bbc.co.uk/sounds/play/live/bbc_radio_one)
@@ -170,30 +219,6 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-# Writing mathematical expressions
-Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
-`**The Cauchy-Schwarz Inequality**`\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-**The Cauchy-Schwarz Inequality**
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
-This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
-```
-
-# $a^2 + b^2 = c^2$
-## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
-$$\begin{eqnarray}
-x' &=& &x \sin\phi &+& z \cos\phi \\
-z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}$$
-
-[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
-
-JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UupndWl0G_I?si=4mv5xpepDYThP5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Red Hat Summit 2025: Tuesday highlights and innovation unveiled
