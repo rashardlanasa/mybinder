@@ -7,6 +7,10 @@ mathjax: true
  {{ jekyll.version }}
 
 
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
+
 [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
 ### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
 The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
@@ -20,7 +24,7 @@ The <object> HTML element represents an external resource, which can be treated 
 
 ## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
 
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
+
 
 ```html
 <!-- Removing Hieght did not work, im sticking to an inline  size def - #rashard -->
