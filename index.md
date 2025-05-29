@@ -6,6 +6,20 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+[w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
+### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
+The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="Eajaezm" data-pen-title="flexboxFixed_present" data-user="ricothakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricothakarashard/pen/Eajaezm">
+  flexboxFixed_present</a> by ricothakarashard (<a href="https://codepen.io/ricothakarashard">@ricothakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
+
+## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
+
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>
 
 ```html
@@ -26,7 +40,7 @@ mathjax: true
 ```
 [HTML `<object>` height Attribute](https://www.w3schools.com/tags/att_object_height.asp)
 
-<div class="tupperware">
+<div class="box">
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" ></object>
 
@@ -46,11 +60,7 @@ mathjax: true
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="400" height="auto" ></object> 
 ```
 
-[w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla]()
-### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
-The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
 
-## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
 
 
 ## Logcat
