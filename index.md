@@ -7,6 +7,12 @@ mathjax: true
  {{ jekyll.version }}
 
 
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" ></object>
+[w3schools](https://www.w3schools.com/tags/tag_object.asp)
+```
+<object data="video.mp4" width="400" height="300"></object> [w3schools](https://www.w3schools.com/tags/tag_object.asp)
+```
+
 <iframe src="https://archive.org/embed/The.Wizard.1989.1080p.BluRay.DD2.0.x264-AlexBMW" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # [The Chemical Brothers](https://www.thechemicalbrothers.com/) - Essential Mix [1995] [BBC](https://www.bbc.com/) radio [1](https://www.bbc.co.uk/sounds/play/live/bbc_radio_one)
