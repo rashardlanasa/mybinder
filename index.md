@@ -30,11 +30,12 @@ The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is 
 
 [LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
 
-<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
 
 [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
 ![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
 [STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
 
 [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
