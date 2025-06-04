@@ -8,13 +8,15 @@ mathjax: true
 
 
 # `<audio>`: The Embed Audio element
-The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the <source> element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream).
-
 <figure>
   <figcaption>Listen Over_The_Breaks; J_Dilla, The Shining: Instrumentals:</figcaption>
   <audio controls src="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3" type="audio/mpeg"></audio>
   <a href="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3"> Download audio </a>
 </figure>
+
+The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf)
+
+
 
 
 # EArthData UPDATES
