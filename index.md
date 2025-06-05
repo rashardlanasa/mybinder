@@ -6,138 +6,18 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
-<style>
-  
-  /* This is the primary nave container color  */
-  .navbar {
-    overflow: hidden;
-    background-color: #33333350;
-    border-radius: 3px;
-      font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
-  font-size: 1rem;
-  }
-  
-  .navbar a {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 10x 10px;
-    text-decoration: none;
-  }
-  
-  .dropdown {
-    float: left;
-    overflow: hidden;
-  }
-  /* This is the tex that is in the main display navbar no hover but only a dropdown heading   */
-  .dropdown .dropbtn {
-    font-size: 16px;  
-    border: none;
-    outline: none;
-    color: #44F281;
-    padding: 11px 11px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-  }
-  /* this is when the mous is over the Heading*/
-  .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #446FF250;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #3E38F250;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,20,20,1.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    float: none;
-    color: white;
-    padding: 1px 1px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .dropdown-content a:hover {
-    background-color: #44F28150;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  </style>
-  
-<HGROUP itemscope itemprop="workExample" itemtype="https://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}">
 
+# `<audio>`: The Embed Audio element
+<figure>
+  <figcaption>Listen Over_The_Breaks; J_Dilla, The Shining: Instrumentals:</figcaption>
+  <audio controls src="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3" type="audio/mpeg"></audio>
+  <a href="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3"> Download audio </a>
+</figure>
 
-   
-
-
-  
+The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf)
 
 
 
-
-
-  <section itemscope itemtype="https://schema.org/SiteNavigationElement">
-    <nav class="navbar" role="navigation">
-        <img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" />
-
- <a href="{{ site.url }}{{ site.baseurl }}">#./HoleToAnotherUniverse/mybinder/{{ jekyll.version }}</a>
-      
-    
-        <div class="dropdown">
-        <button class="dropbtn">Compiling 
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="dropdown-content">
-          
-          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro" itemscope itemtype="https://schema.org/Person" itemprop="name">RashardMRO</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/compiling/">Compiling</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/astronomy">AstronomY</a>
-
-           <a href="https://thakarashard.github.io/">ThakaRashard</a>
-           <a href="{{ site.url }}{{ site.baseurl }}/twitters">TwitterS</a>
-           <a href="{{ site.url }}{{ site.baseurl }}/cv">curriculum vitae</a>
-           <a href="{{ site.url }}{{ site.baseurl }}/learned">RashardLearned</a>
-           <a href="https://moonlov3r.wordpress.com/blog-feed/">moonlov3r - WP</a>
-           <a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a>
-           <a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a>
-           <a href="https://thakarashard.github.io/">ThakaRashard</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/rashardlearned/">RashardLearned</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/astronomy">AstronomY</a>
-        </div>
-      </div> 
-    
-    
-    
-      <div class="dropdown">
-        <button class="dropbtn">AtThisTimE! 
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="dropdown-content">
-                    <a href="{{ site.url }}{{ site.baseurl }}/linux">linux</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/mybinder">mYBinder</a>
-            <a href="{{ site.url }}{{ site.baseurl }}/learned">RashardLearned</a>
-          <a href="https://thakarashard.github.io/">ThakaRashard</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/compiling">./CompilingBlog=></a>
-
-        </div>
-      </div> 
-      
-    </nav>  
-
-
-</section> 
-
-  </HGROUP>
 
 # EArthData UPDATES
 [sounds for coral](https://www.youtube.com/watch?v=OKbPzGUihG0) [Im Learning](https://on.soundcloud.com/A0y3pXTWuofugLLjGi) [TeamWork](https://www.youtube.com/watch?v=klNiPcJMSvs) @nasa-jpl @ajc
@@ -150,11 +30,12 @@ mathjax: true
 
 [LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
 
-<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="800" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
 
 [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
 ![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
 [STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
 
 [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
