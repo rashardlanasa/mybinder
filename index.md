@@ -6,7 +6,24 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+..
+## Countering The Conspiracy to Destroy Black Boys (1987) | Dr. Jawanza Kunjufu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Qgw0r29GYw?si=bHvm96jKkABaJQE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+
+
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
+ 
 [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jd_pmCI74NY?si=cWZYGW8J62K7z460" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -234,21 +251,7 @@ jobs:
 
 
 
-# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 
-### iMAGEMAGiCK
-## ImageMagick Examples --
- Animation Basics
-I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
-
-
-<div class="tupperware" markdown="1">
-
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
-
-</div>
- 
 
 
 [AcmeMapper](https://mapper.acme.com/)
