@@ -14,9 +14,9 @@ mathjax: true
   <a href="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3"> Download audio </a>
 </figure>
 
-The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf)
-
-[w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
+The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf) [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) / [All MIME types](https://mimetype.io/all-types) : [Syntax of the MIME Types File](https://docs.oracle.com/cd/E19683-01/817-2178-10/crmime.html#wp25634) : [Content-Type](https://www.cs.umd.edu/~shankar/417-F01/Slides/chapter2a-aus/sld037.htm)
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
 ### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
 The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
 
@@ -34,6 +34,9 @@ The <object> HTML element represents an external resource, which can be treated 
 
 <object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
 <div class="tupperware" markdown="1">
+
+<object data="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf">download the PDF file.</a></p></object>
+
 
 # EArthData UPDATES
 [sounds for coral](https://www.youtube.com/watch?v=OKbPzGUihG0) [Im Learning](https://on.soundcloud.com/A0y3pXTWuofugLLjGi) [TeamWork](https://www.youtube.com/watch?v=klNiPcJMSvs) @nasa-jpl @ajc
@@ -250,26 +253,6 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
-Red Hat Summit 2025: Tuesday highlights and innovation unveiled
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AGszUYA82EMbPNsEAhSv3YFqeSuCeC6dHePkeFgNKyjohuRJiDQYjSdcsSZij6XQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-@nasa @blackgirlscode @nasa-jpl
-<iframe src="https://archive.org/embed/jekyll4firstrun" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
-[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
-
-## Cloud Stage - Day 1 (Google I/O 2025)
-This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[iNSTRUQT - page rashard](https://play.instruqt.com/study-room)
-## Web Stage - Day 1 (Google I/O 2025)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-@nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
-
-<iframe src="https://archive.org/embed/screen-recording-2025-05-03-4.15.03-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 

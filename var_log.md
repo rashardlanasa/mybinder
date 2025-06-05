@@ -1,9 +1,37 @@
+
+Wu-Tang Forever
+by Wu-Tang Clan
+<iframe src="https://archive.org/embed/wu-tang-clan-wu-tang-forever_202401" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) / [All MIME types](https://mimetype.io/all-types) : [Syntax of the MIME Types File](https://docs.oracle.com/cd/E19683-01/817-2178-10/crmime.html#wp25634) : [Content-Type](https://www.cs.umd.edu/~shankar/417-F01/Slides/chapter2a-aus/sld037.htm)
 [NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
 @nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/784455875487203328/v2" data-did="1aadbb6d3e6972b81bc450b5e84b361bdb25ec0a"  ><a href="https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport">https://www.tumblr.com/rashardmro/784455875487203328/nasajpl2023-annualreport</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 [MyLinuxPage]({{ site.url }}{{ site.baseurl }}/linux) an [MyBinder]({{ site.url }}{{ site.baseurl }}/mybinder)
+
+
+# Red Hat Summit 2025: Tuesday highlights and innovation unveiled
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AGszUYA82EMbPNsEAhSv3YFqeSuCeC6dHePkeFgNKyjohuRJiDQYjSdcsSZij6XQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+@nasa @blackgirlscode @nasa-jpl
+<iframe src="https://archive.org/embed/jekyll4firstrun" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
+[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
+
+## Cloud Stage - Day 1 (Google I/O 2025)
+This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[iNSTRUQT - page rashard](https://play.instruqt.com/study-room)
+## Web Stage - Day 1 (Google I/O 2025)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
+
+<iframe src="https://archive.org/embed/screen-recording-2025-05-03-4.15.03-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 ### Today Sat 5/24.###
 # [Mary J Blige](https://www.youtube.com/watch?v=WER5Q1ZoYms&themeRefresh=1)* – Strength Of A Woman: `U + Me` [DiSCOGS](https://www.discogs.com/master/1172926-Mary-J-Blige-Strength-Of-A-Woman)
