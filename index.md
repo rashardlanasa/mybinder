@@ -23,23 +23,19 @@ The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is 
 ### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
 The `<object>` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="Eajaezm" data-pen-title="flexboxFixed_present" data-user="ricothakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricothakarashard/pen/Eajaezm">
-  flexboxFixed_present</a> by ricothakarashard (<a href="https://codepen.io/ricothakarashard">@ricothakarashard</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
 
 ## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
 
 
 
 [Unix Programming Environment PDF](https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf) [THE DESIGN OF THEUNIX®OPERATING SYSTEM](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [redhatlab](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) Install Software Using Package Managers (Admin 101)
+
 <object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
 <div class="tupperware" markdown="1">
 
 <object data="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf">download the PDF file.</a></p></object>
 
+</div>
 
 # EArthData UPDATES
 [sounds for coral](https://www.youtube.com/watch?v=OKbPzGUihG0) [Im Learning](https://on.soundcloud.com/A0y3pXTWuofugLLjGi) [TeamWork](https://www.youtube.com/watch?v=klNiPcJMSvs) @nasa-jpl @ajc
