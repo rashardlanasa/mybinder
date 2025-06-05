@@ -1,5 +1,8 @@
 
 
+<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
+
+
 ```html
 <!-- Removing Hieght did not work, im sticking to an inline  size def - #rashard -->
 <object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500"></object>

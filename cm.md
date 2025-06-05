@@ -1,6 +1,15 @@
 
 ## CodeMuseum
 
+
+
+
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
 # Anchor Links
 
 ```markdown
