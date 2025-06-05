@@ -31,7 +31,7 @@ The `<object>` HTML element represents an external resource, which can be treate
 
 
 
-[Unix Programming Environment PDF](https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf) 
+[Unix Programming Environment PDF](https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf) [THE DESIGN OF THEUNIX®OPERATING SYSTEM](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [redhatlab](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) Install Software Using Package Managers (Admin 101)
 <object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
 <div class="tupperware" markdown="1">
 
