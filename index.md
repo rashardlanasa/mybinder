@@ -242,7 +242,7 @@ jobs:
 I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
 
 
-
+<div class="tupperware" markdown="1">
 
 ![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
 ![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
