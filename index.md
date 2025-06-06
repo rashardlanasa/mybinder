@@ -6,6 +6,37 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+..
+
+
+[/var/log](https://ricothakarashard.github.io/mybinder/var_log)
+![epson](https://ia600706.us.archive.org/18/items/canscann-29/canscann-06.png)
+## Countering The Conspiracy to Destroy Black Boys (1987) | Dr. Jawanza Kunjufu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Qgw0r29GYw?si=bHvm96jKkABaJQE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![PapiHas](https://ia600706.us.archive.org/18/items/canscann-29/canscann-03.png)
+
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+
+
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
+ 
+[Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd_pmCI74NY?si=cWZYGW8J62K7z460" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid027hhvoB5qEHpwonrE5dDVe2tjecumBJtsXMCAYiGyfF6wS7KvSuz9PuVK8Ebw8h29l%26id%3D100084464911565&show_text=true&width=500" width="500" height="375" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[ABOUIT_STEEL_WHEELS](http://steelwheelsonline.com/about.html) @nasa @nasa-jpl @whitehouse @blackgirlscode @NorthropGrumman
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPayrNgiwKM?si=VI4xZXgK7W1sYG0z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # `<audio>`: The Embed Audio element
 <figure>
@@ -14,63 +45,40 @@ mathjax: true
   <a href="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3"> Download audio </a>
 </figure>
 
-The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf)
+The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf) [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) / [All MIME types](https://mimetype.io/all-types) : [Syntax of the MIME Types File](https://docs.oracle.com/cd/E19683-01/817-2178-10/crmime.html#wp25634) : [Content-Type](https://www.cs.umd.edu/~shankar/417-F01/Slides/chapter2a-aus/sld037.htm)
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
+### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
+The `<object>` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
 
 
+## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
+[Unix Programming Environment PDF](https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf) [THE DESIGN OF THEUNIX®OPERATING SYSTEM](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [redhatlab](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) Install Software Using Package Managers (Admin 101)
+## Logcat
+### command-line tool
+[Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
+[LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
 
+<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
+<div class="tupperware" markdown="1">
+
+<object data="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf">download the PDF file.</a></p></object>
+
+</div>
 
 # EArthData UPDATES
 [sounds for coral](https://www.youtube.com/watch?v=OKbPzGUihG0) [Im Learning](https://on.soundcloud.com/A0y3pXTWuofugLLjGi) [TeamWork](https://www.youtube.com/watch?v=klNiPcJMSvs) @nasa-jpl @ajc
+
+<div class="tupperware">
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid0Q1aKsETqb8UsaAt9zZJjXPjQ6u92CZzccMKjwmiaqfgo3bZnreetncULpTSnenarl&show_text=true&width=500" width="500" height="633" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid02EokmFNRJHYg2sEhDztESj4G4VEpKEqHv4Sh1wEQL9rCKsByGQio8sD69pNC4JpAtl&show_text=true&width=500" width="500" height="594" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid02zpm4WNVrd2HaE1VHTKKWX8qTXkxs1mP34nTbxsRdepSLfRkYS96hvt2NMoDSXBYal&show_text=true&width=500" width="500" height="619" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid02zpm4WNVrd2HaE1VHTKKWX8qTXkxs1mP34nTbxsRdepSLfRkYS96hvt2NMoDSXBYal&show_text=true&width=500" width="500" height="619" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A?si=pUvP__3sFDBA6Ue3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-[LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
-
-<object data="https://stereo.gsfc.nasa.gov/img/stdt.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://stereo.gsfc.nasa.gov/img/stdt.pdf">download the PDF file.</a></p></object>
-
-[PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
-![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
-[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
-
-<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
-
-[w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
-### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
-The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
-
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="Eajaezm" data-pen-title="flexboxFixed_present" data-user="ricothakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricothakarashard/pen/Eajaezm">
-  flexboxFixed_present</a> by ricothakarashard (<a href="https://codepen.io/ricothakarashard">@ricothakarashard</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
-
-## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
-
-
-
-
-## Logcat
-### command-line tool
-[Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
-
-
-# NAMCO SYSTEM 22
-### CPU : Motorola 68EC020 32-bit @ 24.576 MH
-
-
-<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1024px-Sys22_point_rom_pcb_01.jpg)
-
-![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/1024px-Namco_System_21_Polygonizer_logo.svg.png)
->By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
-[SYSTEM16](https://www.system16.com/hardware.php?id=537)
-[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+</div>
 
 
 # Writing mathematical expressions
@@ -99,8 +107,42 @@ JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa
 
 
 
+
+
+[PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf)
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
+<object data="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul4_171A_limb.mp4" width="500" height="500" type="video/mp4"></object>
+
+
+
+
+
+
+
+
 # The.Wizard.1989
 <iframe src="https://archive.org/embed/The.Wizard.1989.1080p.BluRay.DD2.0.x264-AlexBMW" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# NAMCO SYSTEM 22
+### CPU : Motorola 68EC020 32-bit @ 24.576 MH
+
+
+<iframe src="https://archive.org/embed/arcade_raveracw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![system22](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1024px-Sys22_point_rom_pcb_01.jpg)
+
+![namcoSystem21](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Namco_System_21_Polygonizer_logo.svg/1024px-Namco_System_21_Polygonizer_logo.svg.png)
+>By Namco Ltd. - Namco Ltd., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=88836027">Link</a>
+[SYSTEM16](https://www.system16.com/hardware.php?id=537)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [ソウルキャリバー Sōrukyaribā World, SOC14/VER.C](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 # [The Chemical Brothers](https://www.thechemicalbrothers.com/) - Essential Mix [1995] [BBC](https://www.bbc.com/) radio [1](https://www.bbc.co.uk/sounds/play/live/bbc_radio_one)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1975542343&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ian-keane-108889471" title="Ian Keane" target="_blank" style="color: #cccccc; text-decoration: none;">Ian Keane</a> · <a href="https://soundcloud.com/ian-keane-108889471/the-chemical-brothers" title="The Chemical Brothers - Essential Mix [1995] BBC radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">The Chemical Brothers - Essential Mix [1995] BBC radio 1</a></div>
@@ -129,6 +171,7 @@ Every new technology revolution has brought both excitement and fear. Fear of th
 
 <h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
 <p>Red Hat Enterprise Linux (RHEL) 10, is here, and it's built to help organizations confront the major forces that shape modern enterprise tech. Every organization faces some combination of challenges</p><a href="https://www.redhat.com/en/blog/whats-new-rhel-10">[Gil Cattelain]()</a> <a href="http://man.he.net/">[LINUX MAN PAGES ONLINE]</a>
+
 [Interactive labs for Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/enterprise-linux)
 
 
@@ -219,70 +262,16 @@ jobs:
 
 
 
-# [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 
-### iMAGEMAGiCK
-## ImageMagick Examples --
- Animation Basics
-I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
-
-
-<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
-<div class="tupperware" markdown="1">
-
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
-
-</div>
- 
 
 
 [AcmeMapper](https://mapper.acme.com/)
 [Red Hat TV](https://tv.redhat.com/en)
 ![cla](https://www.redhat.com/rhdc/managed-files/command%20line%20vis.webp)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/czZEHOlVSL">https://t.co/czZEHOlVSL</a> <a href="https://twitter.com/hashtag/RHEL?src=hash&amp;ref_src=twsrc%5Etfw">#RHEL</a> <a href="https://twitter.com/NASA_NCCS?ref_src=twsrc%5Etfw">@NASA_NCCS</a> im being hacked by ppl at <a href="https://twitter.com/hashtag/rhSUMMiT?src=hash&amp;ref_src=twsrc%5Etfw">#rhSUMMiT</a> and i cannot mention <a href="https://twitter.com/hashtag/matt?src=hash&amp;ref_src=twsrc%5Etfw">#matt</a> ... <a href="https://twitter.com/lacontroller?ref_src=twsrc%5Etfw">@lacontroller</a> idk who mad at me <a href="https://twitter.com/mhdcd8?ref_src=twsrc%5Etfw">@mhdcd8</a> ... <a href="https://t.co/Le45qiTjS3">https://t.co/Le45qiTjS3</a> <a href="https://t.co/fQVrOGVUQF">pic.twitter.com/fQVrOGVUQF</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1925616081902981533?ref_src=twsrc%5Etfw">May 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LZbveh8XCZwzxxkHuWjwAZnmQVQfGNqPuXnAunTAANqSao1ZVDoDCAc3k4QSdfqJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-Red Hat Summit 2025: Tuesday highlights and innovation unveiled
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii8ItlirOz4?si=9-YhgZgI-kcexrHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AGszUYA82EMbPNsEAhSv3YFqeSuCeC6dHePkeFgNKyjohuRJiDQYjSdcsSZij6XQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-@nasa @blackgirlscode @nasa-jpl
-<iframe src="https://archive.org/embed/jekyll4firstrun" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[LineageOS](https://lineageos.org/engineering/) : You can find various information, how-tos, build instructions and much more here in the [wiki](https://wiki.lineageos.org/).
-[DevOps and CI/CD with automation controller - instruqt](https://play.instruqt.com/redhat/invite/ngeybzmnyaqo/tracks/devops-controller) [Why Storybook?](https://storybook.js.org/docs/get-started/why-storybook)
-
-## Cloud Stage - Day 1 (Google I/O 2025)
-This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.com/) im not into them @nasa but i use @google earth a lot an the world is getting more liquid in how they interact with the web. Watching these shows will prevent unessesary [DOGE_CLEANUP](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/doge-putting-countrys-data-and-computing)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zwosRCbMD3w?si=5b2hgAzy3ZSN3osC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[iNSTRUQT - page rashard](https://play.instruqt.com/study-room)
-## Web Stage - Day 1 (Google I/O 2025)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4pB2IhK_zWo?si=OoVgKJVwaneKw5Jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-@nasa-jpl inclass @whitehouse @nasa @cityoflosangeles @stateofcalifornia @blackgirlscode - [Google for Developers](https://www.youtube.com/watch?v=4pB2IhK_zWo&ab_channel=GoogleforDevelopers)
-
-<iframe src="https://archive.org/embed/screen-recording-2025-05-03-4.15.03-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 
 [word-break -mdnWEBDOCS](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break) The word-break CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box. [max-content](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content)
-![Labour Day 2025](https://www.google.com/logos/doodles/2025/labour-day-2025-6753651837110708-2x.png)
-[Labour Day 2025 - Happy Labour Day 2025: 30+ wishes, images, messages, greetings, WhatsApp status to celebrate International Workers' Day](https://www.hindustantimes.com/lifestyle/festivals/happy-labour-day-2025-30-wishes-images-messages-greetings-whatsapp-status-to-celebrate-international-workers-day-101746007100235.html)`https://x.com/akankshaa_hthttps://www.linkedin.com/in/akanksha-a-36861a1aa/`  [![Twitter Follow](https://img.shields.io/badge/Social-Akankshaa_Ht__-blue?style=social&logo=X)](https://twitter.com/Akankshaa_Ht) 
- [![Twitter Follow](https://img.shields.io/badge/Social-Akanksha Agnihotri@Akankshaa_Ht__-blue?style=social&logo=X)](https://twitter.com/Akankshaa_Ht)
-![PLACE_VALUE cube-clipart-ten-base-base-ten-blocks](https://d1e4pidl3fu268.cloudfront.net/e91525eb-85d7-4251-8c43-93fd41c51228/base10blockclipart.PNG)
-![googleio25](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/img/googleiO25.png)
-![Android](https://io.google/2025/assets/images/io25-explore-android.webp) [ANDROiD](https://io.google/2025/explore/?focus_areas=Android) @google i would like guidance but i got it, imma make a page rn....[googleio25.md](#) and Write about `Transision Tech` its the technologies we need to survive independant of a fixed dwelling. I am worried about embarrassment but i still have my @nasa-jpl badge!
-### Topics:
-- Android
-- Missing People Search Google Lens
-- FireMonitoring with @googleearth
-- Climate Research
-- Chrome OS FLEX
-- Chrome Profiles
-- Surfing Undersuppression 
 
 [How to highlight code on a Jekyll site - Syntax Highlighting February 11, 2019   1 minute read  ](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/) [Rashard Kelly @NASA-JPL Linux kernel source tree repo pagesBlog](https://ricothaka.github.io/linux/)
 
