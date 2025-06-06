@@ -8,8 +8,12 @@ mathjax: true
 
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 ..
+
+![epson](https://ia600706.us.archive.org/18/items/canscann-29/canscann-06.png)
 ## Countering The Conspiracy to Destroy Black Boys (1987) | Dr. Jawanza Kunjufu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Qgw0r29GYw?si=bHvm96jKkABaJQE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![PapiHas](https://ia600706.us.archive.org/18/items/canscann-29/canscann-03.png)
 
 ### iMAGEMAGiCK
 ## ImageMagick Examples --
