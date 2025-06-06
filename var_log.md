@@ -72,3 +72,6 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mLhZHJc98o6zKHGTSjMu2QTvqeyiq3uNr2DrjZWFVeCe57SnC4fvBfjWPBvfT2Hwl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 {% include current.md %}
+
+<img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
+![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
