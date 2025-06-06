@@ -8,7 +8,7 @@ mathjax: true
 
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 ..
-
+[Time Machine-The Way Things Are](https://www.youtube.com/watch?v=5YMYrB0dqoU) @stateofcalifornia about the porn ... the place is a mess 
 [EMOJi](https://emojipedia.org/google)
 [/var/log](https://ricothakarashard.github.io/mybinder/var_log)
 ![epson](https://ia600706.us.archive.org/18/items/canscann-29/canscann-06.png)
