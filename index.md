@@ -9,7 +9,6 @@ mathjax: true
 
 [Bonobo - Essential Mix 1481 (Live at Glastonbury) - 02 July 2022 @BBC Radio 1 12min hotspot](https://youtu.be/PwbYUFY6Q3A?t=982)
 
-<script src="https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3.js"></script>
 ![https://archive.org/download/ia-logo-white-transparent/ia-logo-white-transparent.png](https://archive.org/download/ia-logo-white-transparent/ia-logo-white-transparent.png)
 `subject:"Computer Hacking Documentries"` 
 [Computer Hacking Documentries Mega Collection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
@@ -54,6 +53,9 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 ![lariotgrafffworknotesandimpersonationnotes-07](https://github.com/user-attachments/assets/9c75776d-5023-4522-b69b-b56f314f2e8a)
 
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
+### The UNIX System: Making Computers More Productive
+<iframe src="https://archive.org/embed/theunixsystem" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ..
 [Time Machine-The Way Things Are](https://www.youtube.com/watch?v=5YMYrB0dqoU) @stateofcalifornia about the porn ... the place is a mess 
 [EMOJi](https://emojipedia.org/google)
@@ -76,7 +78,10 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 ![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
 
 </div>
+
+
  
+
 [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jd_pmCI74NY?si=cWZYGW8J62K7z460" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -509,13 +514,12 @@ Discover the power of learning by doing with LabEx! An AI-driven platform offeri
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Create Container - Learn how to create a Docker container from an image using the Docker CLI. This example demonstrates how to run a simple web server in a container. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://t.co/959rpfpvPL">https://t.co/959rpfpvPL</a></p>&mdash; LabEx (@WeAreLabEx) <a href="https://twitter.com/WeAreLabEx/status/1916789919399235696?ref_src=twsrc%5Etfw">April 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<script src="https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3.js"></script>
 
 ## AT&T Archives: The UNIX Operating System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=DE6umMl1gbQX986O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### The UNIX System: Making Computers More Productive
-<iframe src="https://archive.org/embed/theunixsystem" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ### AT& T Archives The UNIX Operating System
 <iframe src="https://archive.org/embed/at-t-archives-the-unix-operating-system" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
