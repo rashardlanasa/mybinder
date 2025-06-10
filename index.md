@@ -8,6 +8,7 @@ mathjax: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Bonobo - Essential Mix 1481 (Live at Glastonbury) - 02 July 2022 @BBC Radio 1 12min hotspot](https://youtu.be/PwbYUFY6Q3A?t=982)
+
 <script src="https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3.js"></script>
 ![https://archive.org/download/ia-logo-white-transparent/ia-logo-white-transparent.png](https://archive.org/download/ia-logo-white-transparent/ia-logo-white-transparent.png)
 `subject:"Computer Hacking Documentries"` 
@@ -49,6 +50,7 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 # Dekae FA, Inkheads - Miami, March 2023
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=4WdAH27f4z7hJe7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
 ![lariotgrafffworknotesandimpersonationnotes-07](https://github.com/user-attachments/assets/9c75776d-5023-4522-b69b-b56f314f2e8a)
 
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
