@@ -12,6 +12,17 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# WHO iS iCE?
+### U.S. Immigration and Customs Enforcement
+ICE was created in 2003 through a merger of the investigative and interior enforcement elements of the former U.S. Customs Service and the Immigration and Naturalization Service. ICE now has more than 20,000 law enforcement and support personnel in more than 400 offices in the United States and around the world.
+
+The agency has an annual budget of approximately $8 billion, primarily devoted to three operational directorates — Homeland Security Investigations (HSI), Enforcement and Removal Operations (ERO) and Office of the Principal Legal Advisor (OPLA). A fourth directorate – Management and Administration (M&A) – supports the three operational branches to advance the ICE mission.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iDtcvXVlTVA?si=t_t0iA9ONKaLYmpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+rashard- @nasa-jpl @blackgirlscode goodluck [what a loaded word](https://en.wikipedia.org/wiki/Loaded_language)!!!!! 
 trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
 <blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
