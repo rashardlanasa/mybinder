@@ -8,6 +8,48 @@ mathjax: true
 
 
 
+
+
+
+# Compiling~
+
+# LIVE: ABC7 Eyewitness News
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# WHO iS iCE?
+### U.S. Immigration and Customs Enforcement
+ICE was created in 2003 through a merger of the investigative and interior enforcement elements of the former U.S. Customs Service and the Immigration and Naturalization Service. ICE now has more than 20,000 law enforcement and support personnel in more than 400 offices in the United States and around the world.
+
+The agency has an annual budget of approximately $8 billion, primarily devoted to three operational directorates — Homeland Security Investigations (HSI), Enforcement and Removal Operations (ERO) and Office of the Principal Legal Advisor (OPLA). A fourth directorate – Management and Administration (M&A) – supports the three operational branches to advance the ICE mission.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iDtcvXVlTVA?si=t_t0iA9ONKaLYmpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+rashard- @nasa-jpl @blackgirlscode goodluck [what a loaded word](https://en.wikipedia.org/wiki/Loaded_language)!!!!! 
+trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
+<blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![image](https://github.com/user-attachments/assets/5238e2fb-554f-4961-8e32-d7c439aec2c0)
+![reply](https://github.com/user-attachments/assets/3a2bb17c-436d-45e9-bbbb-cb64b34d3850)
+
+i hope they are finling thier taxes at nasajpl and submitting to pornography background checks... or investigating the right kind of graffiti "ICE AGENTS WILL BE DOXXED" with a smiley face... ppll already overly focused on graffiti!!!!!!!!!!!!!!!!!!! [its strange theres 400 missing children from georgia!!!!!!!!!!](https://www.ossoff.senate.gov/press-releases/news-sen-ossoffs-bipartisan-probe-uncovers-1790-children-in-georgia-dfcs-care-were-reported-missing-between-2018-and-2022/) rumored to be sex slaves from an atlanta perspective
+What is Doxing?
+Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxing-free-speech-and-first-amendment) or process of collecting and disseminating someone’s personal information in order to shame, embarrass, expose or intimidate them. This information can come from private sources but is often obtained from public records. The term derives from the phrase “dropping dox (documents)” and describes a tactic that has evolved into a form of online harassment that can escalate into stalking or other criminal conduct. [Doxing: The Resource Guide - CUNY @CUNYTechPrep](https://www.cuny.edu/about/administration/offices/transformation/diversity-equity-and-inclusion-hub/doxing/#:~:text=Doxing%20(or%20doxxing)%20is%20the,often%20obtained%20from%20public%20records.) this shit gonna take gavin and karen out, not graffiti [What Is California Penal Code 653.2 About?](https://www.simmrinlawgroup.com/california-penal-code-section-653-2/) [H.R.6478 - To amend title 18, United States Code, to provide criminal and civil remedies for publication of personally identifiable information with the intent to do harm.](https://www.congress.gov/bill/114th-congress/house-bill/6478)
+
+
+# -Team: Fired DFCS worker says she didn’t handle rolling pin beating case, but got the ax anyway
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GIMJ0peWyyw?si=-pfpaJsVfQt_z7N5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Trump: National Guard Will Be In LA Until There's No Danger: Full Q&A](https://www.youtube.com/watch?v=_xNVjPm14yU) [Every Cyber Attack Facing America](https://youtu.be/wnhCuYRYCdM)
+
+@stateofcalifornia @cityoflosangeles 
+[![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [![Twitter Follow](https://img.shields.io/badge/Social-@nasajpl__-blue?style=social&logo=X)](https://twitter.com/@nasajpl)
+<div class="tupperware" >
+<img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
+<img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
+ 
 # Dekae FA, Inkheads - Miami, March 2023
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=4WdAH27f4z7hJe7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
