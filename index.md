@@ -6,6 +6,11 @@ mathjax: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+
+
+
+
 # Compiling~
 
 # LIVE: ABC7 Eyewitness News
@@ -45,6 +50,11 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 <img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
 <img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
  
+# Dekae FA, Inkheads - Miami, March 2023
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=4WdAH27f4z7hJe7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![lariotgrafffworknotesandimpersonationnotes-07](https://github.com/user-attachments/assets/9c75776d-5023-4522-b69b-b56f314f2e8a)
+
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
 ..
 [Time Machine-The Way Things Are](https://www.youtube.com/watch?v=5YMYrB0dqoU) @stateofcalifornia about the porn ... the place is a mess 
