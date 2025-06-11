@@ -64,7 +64,7 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 <div class="tupperware" >
 <img src="https://github.com/user-attachments/assets/998622ea-e70c-4f2b-9893-68a36a1073e7" alt="SimpleScanStation20250609191450-1" />
 <img src="https://github.com/user-attachments/assets/8a075c5d-38a9-44cd-86ef-f0c0fca8ebec" alt="SimpleScanStation20250609191450-1" />
- 
+</div>
 # Dekae FA, Inkheads - Miami, March 2023
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg9H7urB3kk?si=4WdAH27f4z7hJe7e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
