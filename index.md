@@ -18,7 +18,7 @@ I lost my commands, i need to dump my history file from time to time... -  [Basi
 </div>
 
 # @blackgirlscode * im sorry
- i was into jehovahs witnesses and neglected [your opportunities](https://www.jw.org/en/search/?q=relationships%5C) -[Rashard](https://rashardlanasa.github.io/) @nasa-jpl @stateofcalifornia @AlamedaCounty
+ i was into jehovahs witnesses and neglecte[d](https://www.jw.org/en/library/magazines/g201004/Will-Sex-Improve-Our-Relationship/) [your opportunities](https://www.jw.org/en/search/?q=relationships%5C) -[Rashard](https://rashardlanasa.github.io/) @nasa-jpl @stateofcalifornia @AlamedaCounty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=7VGcrpaOrwAPXsCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/786094243471048704" data-did="24655466fd038d3d9fbade1fe1fd7093c10866fb"><a href="https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust">https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
  
