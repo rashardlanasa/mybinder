@@ -3,6 +3,12 @@ layout: default
 mathjax: true
 ---
 # Currently Compiling `jekyll.version`  {{ jekyll.version }}
+## Kash Doll - Summer Sixteen [freestyle]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiCYElX11Io?si=94prdG1TuxSuKL5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@ maybe im wrong about black and white suspense and i overly scienced sexuality [@nasa @whitehouse](https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse) @cityoflosangeles @stateofcalifornia 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/486509007&color=%23f29cff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse" title="Trapped In The Dollhouse" target="_blank" style="color: #cccccc; text-decoration: none;">Trapped In The Dollhouse</a></div> [LA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+
 ### iMAGEMAGiCK
 ## ImageMagick Examples --
  Animation Basics
