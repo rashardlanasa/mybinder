@@ -3,7 +3,21 @@ layout: default
 mathjax: true
 ---
 # Currently Compiling `jekyll.version`  {{ jekyll.version }}
-# @blackgirlscode * im sorry i got into jehovahs witnesses and neglected [your opportunities](https://www.jw.org/en/search/?q=relationships%5C) -[Rashard](https://rashardlanasa.github.io/) @nasa-jpl @stateofcalifornia @AlamedaCounty
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+
+
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
+# @blackgirlscode * im sorry
+ i was into jehovahs witnesses and neglected [your opportunities](https://www.jw.org/en/search/?q=relationships%5C) -[Rashard](https://rashardlanasa.github.io/) @nasa-jpl @stateofcalifornia @AlamedaCounty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=7VGcrpaOrwAPXsCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/786094243471048704" data-did="24655466fd038d3d9fbade1fe1fd7093c10866fb"><a href="https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust">https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
  
@@ -85,18 +99,7 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 
 ![PapiHas](https://ia600706.us.archive.org/18/items/canscann-29/canscann-03.png)
 
-### iMAGEMAGiCK
-## ImageMagick Examples --
- Animation Basics
-I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
 
-
-<div class="tupperware" markdown="1">
-
-![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
-![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
-
-</div>
 
 
  
