@@ -6,6 +6,9 @@ mathjax: true
 # LIVE: ABC7 Eyewitness News
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0weJuLQQabNcR4uQh62mmHpC8ePSW1QaqK1kwdBbKiQsqoaZj1ziwn9t1ssDdKjYGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="558" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://archive.org/embed/lariotgrafffworknotesandimpersonationnotes-06" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aaTwcVtnj1xAr9qtLsAzs6awSLxBJUJgemDjtPbiNk3han9kRN2oB1269YbJN7zNl%26id%3D100084464911565&show_text=true&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [Bonobo - Essential Mix 1481 (Live at Glastonbury) - 02 July 2022 @BBC Radio 1 12min hotspot](https://youtu.be/PwbYUFY6Q3A?t=982)
 
