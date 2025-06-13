@@ -4,10 +4,21 @@
 <div class="gallery">
   {% for file in site.static_files %}
       {% if file.path contains '/assets/images/gallery/' and file.extname == '.jpg' %}
-          <img src="{{ file.path }}" alt="Gallery Image">
+          <img src="{{ image.path }}" alt="Gallery Image">
       {% endif %}
   {% endfor %}
 </div>
+
+
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images/gallery' %}
+    {% unless image.path contains '-th.' %}
+      <a href="{{ image.path }}">
+        <img src="{{ image.basename | append: '-th' | append: image.extname }}" alt="">
+      </a>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
 
 [Find text in files using the Linux grep command](https://www.redhat.com/en/blog/find-text-files-using-grep) [How to Find all Files Containing Specific Text (string) on Linux](https://www.geeksforgeeks.org/linux-unix/how-to-find-all-files-containing-specific-text-string-on-linux/) [How to Search and Find Files for Text Strings in Linux](https://www.linuxjournal.com/content/how-search-and-find-files-text-strings-linux) [Index of Linux Journal Issues, 1994 - 2018](https://www.destructuring-bind.org/linux-journal-archive/LJ/tocindex.html)
 # [RashardsLinuxNotes](https://ricothakarashard.github.io/linux/) + [computing](https://ricothakarashard.github.io/Computing)
