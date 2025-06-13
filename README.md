@@ -1,4 +1,7 @@
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
+
+![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 [![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
