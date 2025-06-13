@@ -2,7 +2,16 @@
 layout: default
 mathjax: true
 ---
-# Currently Compiling `jekyll.version`  {{ jekyll.version }}
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+# #WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood [#AGiLE](https://www.oreilly.com/library/view/learning-agile/9781449363819/):#BLOCKERS]
+This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south... The guard put her out while she was screaming im working... I KNOW FOR SURE SHE IS A DATASCiENTiST and good with #WikiMarkup its still like 6000 ppl work for JPL and LA is a very outdoorsy place bc the housing was never designed to support the native Architechture, Ms Bass is nesting and Gavin is angry at trump but i see less in your face hurtful behavior so however things work LAPD had on Michael Jackson chin gaurds an there was a big art party, the gaurd should not have put her out -#[rashard u/nasa #JPL @reddit](https://thakarashard.github.io/) 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/) @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles [books.google](https://books.google.com/books/about/Learning_Agile.html?id=gbxUBQAAQBAJ) [AGILE METHODOLOGIES -Gayatri Vidya Parishad College of Engineering https://gvpce.ac.in › ECE › syllabus](https://gvpce.ac.in/ECE/R-2019/syllabus/19CS11P1.pdf) [JPL to Transition to Fully Onsite Work:@nasa-jpl life](https://www.jpl.nasa.gov/news/jpl-to-transition-to-fully-onsite-work/)
+![WorKiNG_REMOTE POST_EATON_CANYON_WiLDFiRE #LiBrary_Life in Hollywood #AGiLE#BLOCKERS](https://github.com/user-attachments/assets/7cc5faa5-2768-414c-b2dd-39e4307683ea)
+
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/">#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood #AGiLE:#BLOCKERS</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 ## Kash Doll - Summer Sixteen [freestyle]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiCYElX11Io?si=94prdG1TuxSuKL5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://audiomack.com/embed/kashbratz/album/trapped-in-the-dollhouse-1" scrolling="no" width="100%" height="400" frameborder="0" title="Trapped In The Dollhouse"></iframe>
