@@ -4,6 +4,11 @@ mathjax: true
 ---
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
+<figure>
+  <figcaption>DialatedPeoples:TripleOptics</figcaption>
+  <audio controls src="https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3" type="audio/mpeg"></audio>
+  <a href="https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3"> Download audio </a>
+</figure>
 
 [Bird Rollins – Going to Atlanta to save the Children](https://www.youtube.com/watch?v=zVPHx0RssYM) [Just My Soul Responding · Smokey Robinson](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [Margo Williams - God Save And Protect All The Children - @blackgirlscode goodluk @nasa-jpl they need it](https://youtu.be/yz19n4eS3eQ) someone dropped a mag on my walk and my eyes hurt... i did not touch it tho... [Golden Flamingo Orchestra Featuring Margo Williams ‎- The Guardian Angel Is Watching Over Us](https://youtu.be/kTp0-IRuYLU) [We Are People Too - Master Jay](https://www.youtube.com/watch?v=u6hbHjuRLaU) [Dancing Heart · Universal Two](https://www.youtube.com/watch?v=YREg1uIKLK4) [Funky Constellation - Street Talk (Madam Rapper)](https://youtu.be/hIQ16AWtp3M) [The Crusaders & Randy Crawford Street Life](https://youtu.be/youYairWMFM) [You've Gotta Believe (Vocal) · Lovebug Starski](https://www.youtube.com/watch?v=YcXlDqstZUM) [I'm A Sucker For Your Love · Teena Marie](https://youtu.be/hxYYyOSIR2U?list=PLHUPapYSc2W2ogka6P1w6Ta7aLXtLnHNL) [Ghetto Life · Rick James](https://youtu.be/GxBPFWuaIz4?list=PLbsiLqI33GmVsBwMI7sTkrg6QOCrh-V8U)
 
