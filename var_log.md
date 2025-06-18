@@ -1,6 +1,61 @@
 
 {% include other.md %}
 
+
+
+ 
+
+[Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd_pmCI74NY?si=cWZYGW8J62K7z460" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid027hhvoB5qEHpwonrE5dDVe2tjecumBJtsXMCAYiGyfF6wS7KvSuz9PuVK8Ebw8h29l%26id%3D100084464911565&show_text=true&width=500" width="500" height="375" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[ABOUIT_STEEL_WHEELS](http://steelwheelsonline.com/about.html) @nasa @nasa-jpl @whitehouse @blackgirlscode @NorthropGrumman
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPayrNgiwKM?si=VI4xZXgK7W1sYG0z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# `<audio>`: The Embed Audio element
+<figure>
+  <figcaption>Listen Over_The_Breaks; J_Dilla, The Shining: Instrumentals:</figcaption>
+  <audio controls src="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3" type="audio/mpeg"></audio>
+  <a href="https://ia804602.us.archive.org/23/items/j-dilla-the-shining-instrumentals/Instrumentals/08-Over%20The%20Breaks%20%28Instrumental%29.mp3"> Download audio </a>
+</figure>
+
+The [`<audio>`](https://www.w3schools.com/html/html5_audio.asp) HTML element is used to embed sound content in documents. It may contain one or more audio sources, represented using the src attribute or the [`<source>`](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-source-element.html) element: the browser will choose the most suitable one. It can also be the destination for streamed media, using a [MediaStream](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream). - [MDN:MozillaDeveloperNetwork](https://developer.mozilla.org/en-US/) [Building HTML5 Applications - Practical Cross-Browser HTML5 Audio and Video - John Dyer @microsoftlearning](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/building-html5-applications-practical-cross-browser-html5-audio-and-video) [Safari HTML5 Audio and Video Guide @apple](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Introduction/Introduction.html) [HTML Living Standard — Last Updated 2 June 2025](https://html.spec.whatwg.org/print.pdf) [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) / [All MIME types](https://mimetype.io/all-types) : [Syntax of the MIME Types File](https://docs.oracle.com/cd/E19683-01/817-2178-10/crmime.html#wp25634) : [Content-Type](https://www.cs.umd.edu/~shankar/417-F01/Slides/chapter2a-aus/sld037.htm)
+[NewTUMBLR Rashard[M_R_O/JPL/NASA]](https://rashardmro.tumblr.com/)
+@nasa-jpl [2022-ANNUALREPORT](https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf) <~ @blackgirlscode for you teachers [w3schools `<object>`](https://www.w3schools.com/tags/tag_object.asp) [flexbox webdevelopment coursework @nasa-jpl @mdn @mozilla](https://codepen.io/ricothakarashard/pen/Eajaezm?editors=1100)
+### [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object): The External Object element
+The `<object>` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin defined by its [MiMETYPE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types) [HTML5: @w3c 4.8.4 The object element](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-object-element.html) 
+
+
+## HTML:[Living Standard — Last Updated 29 May 2025](https://html.spec.whatwg.org/print.pdf) [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://www.w3.org/TR/CSS22/css2.pdf) [@stanford it looks like you stuggling for unity on @github](https://github.com/stanford) [niceCsstute](https://web.stanford.edu/group/csp/cs22/css.pdf) @nasa-jpl i think they lost they account [Stanford Autonomous Systems Lab](https://github.com/stanfordasl) looks much healthier @nasa 
+[Unix Programming Environment PDF](https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf) [THE DESIGN OF THEUNIX®OPERATING SYSTEM](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [redhatlab](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) Install Software Using Package Managers (Admin 101)
+## Logcat
+### command-line tool
+[Logcat](https://developer.android.com/tools/logcat) is a command-line tool that dumps a log of system messages including messages that you have written from your app with the Log class. [View logs with Logcat](https://developer.android.com/studio/debug/logcat) The Logcat window in Android Studio helps you debug your app by displaying logs from your device in real time [Using adb logcat with a real phone (and not the emulator) STACKOVERFLOW:USER:`user:425749`](https://stackoverflow.com/questions/3707880/using-adb-logcat-with-a-real-phone-and-not-the-emulator)
+[LOGCATTWT](https://x.com/BubbleGumPop510/status/1928199160718676073) [@cityoflosangeles logging tweet](https://x.com/BubbleGumPop510/status/1928197246518005797) [smartla](https://x.com/BubbleGumPop510/status/1928170788039053742)
+
+<object type="text/html" data="https://ricothakarashard.github.io/linux/" style="height:500px;width:100%;" ></object>
+<div class="tupperware" markdown="1">
+
+<object data="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf" type="application/pdf" width="600" height="600"><p>You don't have a PDF plugin, but you can <a href="https://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf">download the PDF file.</a></p></object>
+
+</div>
+
+# EArthData UPDATES
+[sounds for coral](https://www.youtube.com/watch?v=OKbPzGUihG0) [Im Learning](https://on.soundcloud.com/A0y3pXTWuofugLLjGi) [TeamWork](https://www.youtube.com/watch?v=klNiPcJMSvs) @nasa-jpl @ajc
+
+<div class="tupperware">
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid0Q1aKsETqb8UsaAt9zZJjXPjQ6u92CZzccMKjwmiaqfgo3bZnreetncULpTSnenarl&show_text=true&width=500" width="500" height="633" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid02EokmFNRJHYg2sEhDztESj4G4VEpKEqHv4Sh1wEQL9rCKsByGQio8sD69pNC4JpAtl&show_text=true&width=500" width="500" height="594" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASAEarthData%2Fposts%2Fpfbid02zpm4WNVrd2HaE1VHTKKWX8qTXkxs1mP34nTbxsRdepSLfRkYS96hvt2NMoDSXBYal&show_text=true&width=500" width="500" height="619" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A?si=pUvP__3sFDBA6Ue3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1825108517650797%2F&show_text=true&width=268&t=0" width="268" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+</div>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vk-nE48ZyQM?si=RNDn8DhxVMKMAjfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include graffshit.md %}
