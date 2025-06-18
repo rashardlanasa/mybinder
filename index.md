@@ -4,6 +4,13 @@ mathjax: true
 ---
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
+
+@nasa @nasa-jpl idk where we are on logging, but [@cisagov has release](https://github.com/cisagov/LME/releases) a webinar some ppl may wanna check ouy :earth: DATA [CISA's LME Webinar Recording (June 16, 2025)](https://github.com/cisagov/LME/releases/tag/webinar_recording_06162025) [@blackgirlscode learn about logging](https://www.splunk.com/en_us/blog/learn/log-management.html) @splunk @nickshine its rashard from atlanticus. Im in los angeles now, i did not steal from any company i supported your software at... Im outdoor nasa now [NasaEarthData](https://www.earthdata.nasa.gov/centers/lp-daac/news) [ground support](https://rashardmro.github.io/2025/02/28/RashardGDS.html) I think [Sam Pryant](https://www.womenshistory.org/education-resources/biographies/stacey-abrams) my PCi Manager at Atlanticus is a politician. Either way [Mayor_Karen Bass](https://www.congress.gov/member/karen-bass/B001270) is in that flock of hens and could use some advice she interviewed me as a webdesigner in 2002 @att. Logging could solve so many problems in los angeles! [People in Pasadena](https://github.com/spokeo) can barely pass a message through hollywood and spectrum/wordpress somehow slowing our packets down b4 they reach DC! And if you are curious about [BlackgirlsCode](https://github.com/spokeo), when i worked at [RentPath](https://www.rentspree.com/partner/rent) being nice to [Nakisha Harrison](https://www.linkedin.com/in/nakisha-harrison-a07976135) I scored a short, yet passionate relationship with a [YuppieShitholePopStar](https://www.youtube.com/watch?v=5GL9JoH4Sws) and she had me promise to make sure the girls stay in my exhaust trail so [they can grow as engineers](https://www.instagram.com/p/C-s5gi5P1EH/). I dont know where Coral is, but tthis girl named [KashDoll]() who ius like this wnba star under a different identity removed Coral from my care @hitachi
+![image](https://github.com/user-attachments/assets/32d4b175-42b3-41ea-8984-ccbb9689cc99)
+
+<img src="https://ia800507.us.archive.org/7/items/screenshot-2025-04-23-11.21.06-am/Screenshot%202025-04-23%2010.49.25%20AM.png" alt="me"/>
+![image](https://github.com/user-attachments/assets/9b197179-24fb-4e47-9785-b7e566629067)
+
 <figure>
   <figcaption>DialatedPeoples:TripleOptics</figcaption>
   <audio controls src="https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3https://archive.org/download/dilated-peoples-the-platform/Album/13-Triple%20Optics.mp3" type="audio/mpeg"></audio>
